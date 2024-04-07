@@ -1,0 +1,3 @@
+For the given country USA:
+Query a Change is in %: -42.44%
+Closest country similar to query a: Russia with difference as 5.009277076823217
